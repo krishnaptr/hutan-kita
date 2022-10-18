@@ -1,2 +1,2 @@
-# hutan-kita
-Simple landing page website for Dicoding submission
+# HutanKita Landing Page
+This is a simple landing page website for Dicoding submission.
